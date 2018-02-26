@@ -1,24 +1,18 @@
 
 
-### 
+### Whale Migration Off the West Coast of North America: A Systems Model Considering Climate Change Effects
 
-
-ABSTRACT 
-
-
-
-#
 
 
 [![screen shot](https://raw.githubusercontent.com/cordphelps/cetacea/master/cetacea.jpg)]()
 
 
-read data with R:
+
 
 ```R
 	> library(RCurl)
-	> source.url <- c("https://raw.githubusercontent.com/cordphelps/cetacea/master/ci.csv")
-	> cetacea.df <- read.csv(text=getURLContent(source.url), header=TRUE, row.names=NULL)
+	> source.url <- c("https://raw.githubusercontent.com/cordphelps/cetacea/master/V7data+mixer.csv")
+	> nino <- read.csv(text=getURLContent(source.url), header=TRUE, row.names=NULL)
 
 ```
 
