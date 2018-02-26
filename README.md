@@ -1,6 +1,6 @@
 
 
-### Public appreciation of species diversity: Swiss findings and comparison with intuitions from the 2017 re-introduction of *B. bison* in western Canada 
+### 
 
 
 ABSTRACT 
