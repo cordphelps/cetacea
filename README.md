@@ -11,7 +11,7 @@
 
 ```R
 	> library(RCurl)
-	> source.url <- c("https://raw.githubusercontent.com/cordphelps/cetacea/master/V7data+mixer.csv")
+	> source.url <- c("https://raw.githubusercontent.com/cordphelps/cetacea/master/V81.csv")
 	> nino <- read.csv(text=getURLContent(source.url), header=TRUE, row.names=NULL)
 
 ```
