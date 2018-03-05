@@ -9,12 +9,6 @@
 
 
 
-```R
-	> library(RCurl)
-	> source.url <- c("https://raw.githubusercontent.com/cordphelps/cetacea/master/V81.csv")
-	> nino <- read.csv(source.url, header=TRUE, row.names=NULL)
-
-```
 cetacea
 ================
 
